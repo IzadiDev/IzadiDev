@@ -123,7 +123,7 @@ Docker
  </tr>
 </table>
 ## 🔊 Quote Of The Day
-<div align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&align=center)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## ⌛Timelaps of 2023
 
