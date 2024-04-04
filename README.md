@@ -2,6 +2,24 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20Visitors🤠&text2=🧑‍💻%20I%20am%20Alireza%20Izadi%20A%20Fullstack%20Developer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## 🚀 About Me
+#### How old Are You?
+
+I'm currently 27 years old.
+
+#### How tall are you?
+
+182 cm
+
+#### What is your main programming language(Advanced Level)?
+C# & JavaScript
+
+#### What is your favorite web framework?
+ASP.Net Core
+
+#### What is your favorite tech stack that you currently use?
+Docker
+
+
 ![octocat-1712268141673](https://github.com/Alireza-Izadi/Alireza-Izadi/assets/129146190/d594dce9-962b-45de-b3e8-acb9f640c90d)
 
 ## ⚙️ My Favorite Tools And Technologies 
