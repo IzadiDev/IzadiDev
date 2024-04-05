@@ -2,8 +2,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20Visitors🤠&text2=🧑‍💻%20I%20am%20Alireza%20Izadi%20A%20Fullstack%20Developer&width=800&height=400)](https://github.com/Alireza-Izadi)
 ## 🚀 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bad+Script&size=40&pause=1000&background=FFFFFF00&random=false&width=800&height=80&lines=%F0%9F%91%8B+Hello+there%2C+I+am+Alireza+Izadi;%F0%9F%9B%A0%EF%B8%8F+A+Fullstack+Web+Developer+;%F0%9F%A5%BC+With+More+than+2+Years+Of+Experience;%F0%9F%93%A2+I+Can+Design+And+Develop+probably;Everything+You+Can+Imagine;%F0%9F%94%A8Tools+That+I+Use+For+Web+Development%3A;%F0%9F%94%B5+C%23+%26+ASP.Net+Core+(Backend);%F0%9F%94%B5Python+%26+Django+(Backend);%F0%9F%94%B5Javascript+or+Typescript+%26+React+(Frontend);%E2%9C%89%EF%B8%8F+Contact+Me%3A+alirezaizad%40outlook.com)](https://git.io/typing-svg)
-<div>
-  <div align="left" width="50%">
     
 #### How old Are You?
 
@@ -21,12 +19,7 @@ ASP.Net Core
 
 #### What is your favorite tech stack that you currently use?
 Docker
-
-  </div>
   
-  ![funny](https://github.com/Alireza-Izadi/Alireza-Izadi/assets/129146190/2eb53823-bed3-48c6-ba08-17c948048c6c)
-</div>
-
 
 ![octocat-1712268141673](https://github.com/Alireza-Izadi/Alireza-Izadi/assets/129146190/d594dce9-962b-45de-b3e8-acb9f640c90d)
 
