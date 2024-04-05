@@ -140,6 +140,9 @@ Docker
     </td>
   </tr>
 </table>
+## 🧠 Flex LeetCode Profile
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Alireza-Izadi&theme=dark)](https://github.com/Alireza-Izadi)
 
 ## 🛠️Some Of My Projects
 
