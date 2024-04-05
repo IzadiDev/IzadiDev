@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bad+Script&size=40&pause=1000&background=FFFFFF00&random=false&width=800&height=80&lines=%F0%9F%91%8B+Hello+there%2C+I+am+Alireza+Izadi;%F0%9F%9B%A0%EF%B8%8F+A+Fullstack+Web+Developer+;%F0%9F%A5%BC+With+More+than+2+Years+Of+Experience;%F0%9F%93%A2+I+Can+Design+And+Develop+probably;Everything+You+Can+Imagine;%F0%9F%94%A8Tools+That+I+Use+For+Web+Development%3A;%F0%9F%94%B5+C%23+%26+ASP.Net+Core+(Backend);%F0%9F%94%B5Python+%26+Django+(Backend);%F0%9F%94%B5Javascript+or+Typescript+%26+React+(Frontend);%E2%9C%89%EF%B8%8F+Contact+Me%3A+alirezaizad%40outlook.com)](https://git.io/typing-svg)
 <div>
   <div align="left">
-    #### How old Are You?
+    
+#### How old Are You?
 
 I'm currently 27 years old.
 
@@ -23,6 +24,7 @@ Docker
 
   </div>
   <div align="right">
+    
     ![funny](https://github.com/Alireza-Izadi/Alireza-Izadi/assets/129146190/2eb53823-bed3-48c6-ba08-17c948048c6c)
 
   </div>
