@@ -126,8 +126,6 @@ Docker
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
     </td>
-  </tr>
-   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
@@ -141,8 +139,6 @@ Docker
       <br>Linux
     </td>
   </tr>
- <tr>
- </tr>
 </table>
 
 ## 🛠️Some Of My Projects
