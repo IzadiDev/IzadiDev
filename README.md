@@ -66,7 +66,9 @@ Docker
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
-          <td align="center" width="96">
+  </tr>
+  <tr>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
@@ -86,9 +88,7 @@ Docker
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
       <br>Mysql
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -104,6 +104,8 @@ Docker
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
