@@ -145,7 +145,7 @@ Docker
 ## 🧠 LeetCode Profile
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Alireza-Izadi&theme=dark)](https://github.com/Alireza-Izadi)
 
-## 🛠️Some Of My Projects
+## 🛠️ Some Of My Projects
 
  - [Iranmedclub](https://iranmedclub.com/)
  - [Samad](https://samad.tums.ac.ir/)
