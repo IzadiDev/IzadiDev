@@ -7,18 +7,11 @@
 
 I'm currently 27 years old.
 
-#### How tall are you?
-
-182 cm
-
-#### What is your main programming language(Advanced Level)?
-C# & JavaScript
-
-#### What is your favorite web framework?
+#### What is your favorite framework?
 ASP.Net Core
 
-#### What is your favorite tech stack that you currently use?
-Docker
+#### What is your favorite operating system?
+Linux
   
 
 ![octocat-1712268141673](https://github.com/Alireza-Izadi/Alireza-Izadi/assets/129146190/d594dce9-962b-45de-b3e8-acb9f640c90d)
